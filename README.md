@@ -1,0 +1,1 @@
+the purpose of this project is to build a website that contains a list of recipes
